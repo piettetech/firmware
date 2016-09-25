@@ -52,3 +52,14 @@ nbproject/
 build/target/
 build/cores/
 hal/soft-ap/.idea/
+# Ignore any locally build applicaitons
+user/applications/
+!user/applications/antselect/
+!user/applications/can/
+!user/applications/hw_serial2/
+!user/applications/otastress/
+!user/applications/product_id_and_version/
+!user/applications/serialbridge/
+!user/applications/tinker/
+!user/applications/unlocker/
+!user/applications/wifitester/
